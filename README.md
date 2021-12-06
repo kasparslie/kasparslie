@@ -5,7 +5,7 @@ learn and ask questions, plus I am familiar with SCRUM methodology and GIT workf
 
 
 - 👀 I’m interested in learning about new technologies and experience new things, to share my passions and knowledge, in my free time I enjoy nature and photography. My moto is
-to create apps and products, that do good for humanity and improves people lifes. 
+to create apps and products, that do good for humanity and improves people`s lifes. 
 
 
 - 🌱 I’m currently learning Python
