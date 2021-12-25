@@ -11,7 +11,7 @@ to create apps and products, that do good for humanity and improves people`s lif
 - 🌱 I’m currently learning Python
 
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for JUNIOR DEVELOPER POSITION!
 
 
 - 📫 How to reach me via email: kasparslie@gmail.com or my LinkedIn profile: https://www.linkedin.com/in/kasparslie/
