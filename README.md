@@ -8,7 +8,7 @@ learn and ask questions, plus I am familiar with SCRUM methodology and GIT workf
 to create apps and products, that do good for humanity and improves people`s lifes. 
 
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, php and react
 
 
 - 💞️ I’m looking for JUNIOR DEVELOPER POSITION!
